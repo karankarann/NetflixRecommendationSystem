@@ -1,8 +1,6 @@
-# NetflixRecommendationSystem
-
-Netflix Movie Recommendation System (Python)
-
 # **Project - Recommendation Systems: Movie Recommendation System**
+
+![alt text](image.png)
 
 ---
 
